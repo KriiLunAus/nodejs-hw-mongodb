@@ -14,4 +14,4 @@ export default function setupServer() {
         console.log(`Server running on port ${PORT}`);
     });
 
-}
+};
